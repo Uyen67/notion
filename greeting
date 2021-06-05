@@ -1,0 +1,3 @@
+if (hrs < 12)
+        greet = 'Good Morning Gorgeous  ';
+    else if (hrs >= 12 && hrs <= 17)
